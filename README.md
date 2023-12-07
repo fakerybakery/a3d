@@ -4,5 +4,5 @@
 A simple script to find available 3-letter domains. Use wisely.
 ## license
 
-W T F P L
+used to be agpl but then i realized how difficult agpl was used so its now W T F P L
 
